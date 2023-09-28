@@ -1,6 +1,6 @@
 
 
-import user from "../../assets/images/user.png";
+import user from "../../assets/images/user1.png";
 import "./style.scss";
 
 const index = () => {
